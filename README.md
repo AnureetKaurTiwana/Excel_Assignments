@@ -12,3 +12,6 @@ search(),substitute(),trim()
 
 # [Many Sum Smaple](https://github.com/AnureetKaurTiwana/Excel_Assignments/blob/main/Many-Sums-Sample-Data.xlsx)
   countif, countifs, sumif, sumifs,sumproduct( used to count, sum with conditions, sum of the products)
+
+# [Radiation Amounts] 
+  Data Analysis using the following functions: Average, SD, Count, Rank, Min, Max 
