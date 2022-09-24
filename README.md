@@ -15,3 +15,6 @@ search(),substitute(),trim()
 
 # [Radiation Amounts](https://github.com/AnureetKaurTiwana/Excel_Assignments/blob/main/Radiation%20Amounts.xlsx)
   Data Analysis using the following functions: Average, SD, Count, Rank, Min, Max 
+
+# [Sum of Merged Cells](https://github.com/AnureetKaurTiwana/Excel_Assignments/blob/main/Sum-for-Merged-Cells.xlsx)
+  sum, offet and match function
