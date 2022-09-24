@@ -4,6 +4,6 @@ Formats are "MM/DD/YY" for date with month date year, "DDDD" is format for day, 
 # countif, countifs, sumif, sumifs, sumproduct
 # Sumifs, sumproduct( used to count, sum with conditions, sum of the products)
 [Palindrome](https://github.com/AnureetKaurTiwana/Excel_Assignments/blob/main/Palindrome.xlsx)
-Reverse string using following functions #MID(), #row, #len(), #textjoin()
-[Find the Position of the word] 
-#search(),substitute(),trim()
+Reverse string using following functions: MID(), row, len(), textjoin()
+[Find the Position of the word] (https://github.com/AnureetKaurTiwana/Excel_Assignments/blob/main/Find-the-Position-of-Word%20(1).xlsx)
+search(),substitute(),trim()
